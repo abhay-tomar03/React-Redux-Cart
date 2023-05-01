@@ -34,7 +34,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## 1
 ![image](https://user-images.githubusercontent.com/75438874/235428474-5ac4b949-d6e4-46a4-b06d-0148020d818e.png)
 
-##2
+## 2
 ![image](https://user-images.githubusercontent.com/75438874/235428489-3403a8b7-a93e-4b5e-a516-efabed80ee18.png)
 
 
